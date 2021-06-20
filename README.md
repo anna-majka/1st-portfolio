@@ -1,5 +1,5 @@
 # anna-majka.github.io
-First portfolio project.
+A portfolio project.
 
 The very first coding project I've ever done.
 
