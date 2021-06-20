@@ -1,4 +1,6 @@
 # anna-majka.github.io
+First portfolio project.
+
 The very first coding project I've ever done.
 
 I followed a Skillshare class "Code your own portfolio - HTML & CSS basics" by Aga Naplocha.
